@@ -3,6 +3,7 @@ NeuralCommerce Intelligence is a cutting-edge web application developed to provi
 
 Key Aspects:
 
+
 Core Functionality: Provides a dual AI system for instant data predictions and ongoing machine learning, designed to derive strategic advantages from complex business datasets.
 Purpose: To empower businesses with neural-powered insights, facilitating smarter and more agile decision-making.
 User Interface: Features a modern, intuitive, and visually striking dark-themed UI.
